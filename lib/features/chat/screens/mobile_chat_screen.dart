@@ -23,23 +23,23 @@ class MobileChatScreen extends ConsumerWidget {
     required this.profilePic,
   }) : super(key: key);
 
-  // void makeCall(WidgetRef ref, BuildContext context) {
-  //   ref.read(callControllerProvider).makeCall(
-  //         context,
-  //         name,
-  //         uid,
-  //         profilePic,
-  //         isGroupChat,
-  //       );
-  // }
+  void makeCall(WidgetRef ref, BuildContext context) {
+    ref.read(callControllerProvider).makeCall(
+          context,
+          name,
+          uid,
+          profilePic,
+          isGroupChat,
+        );
+  }
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    // return CallPickupScreen(
-    //   scaffold: Scaffold(
-    print(isGroupChat);
-    print("he${profilePic}re");
-    return Scaffold(
+    return CallPickupScreen(
+      scaffold: Scaffold(
+    // print(isGroupChat);
+    // print("he${profilePic}re");
+    // return Scaffold(
         appBar: AppBar(
           backgroundColor: appBarColor,
           title: isGroupChat
@@ -66,7 +66,7 @@ class MobileChatScreen extends ConsumerWidget {
           centerTitle: false,
           actions: [
             IconButton(
-              onPressed: () {}, //=> makeCall(ref, context),
+              onPressed: () => makeCall(ref, context),
               icon: const Icon(Icons.video_call),
             ),
             IconButton(
@@ -95,7 +95,7 @@ class MobileChatScreen extends ConsumerWidget {
             ),
           ],
         ),
-      // ),
+      ),
     );
   }
 }
