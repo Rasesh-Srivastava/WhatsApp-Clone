@@ -31,7 +31,7 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 
 
 ## Installation
-After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```whatsapp-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Run the commands:
   - npm install -g firebase-tools
