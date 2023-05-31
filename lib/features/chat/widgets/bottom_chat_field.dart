@@ -60,7 +60,7 @@ class _BottomChatFieldState extends ConsumerState<BottomChatField> {
           );
       setState(() {
         _messageController.text = '';
-        isShowSendButton=false;
+        // isShowSendButton=false;
       });
     } else {
       var tempDir = await getTemporaryDirectory();
@@ -169,7 +169,7 @@ class _BottomChatFieldState extends ConsumerState<BottomChatField> {
                 focusNode: focusNode,
                 controller: _messageController,
                 onChanged: (val) {
-                  if (val.isNotEmpty && _messageController.text!='') {
+                  if (val.isNotEmpty) {
                     setState(() {
                       isShowSendButton = true;
                     });
@@ -184,7 +184,7 @@ class _BottomChatFieldState extends ConsumerState<BottomChatField> {
                   filled: true,
                   fillColor: mobileChatBoxColor,
                   prefixIcon: Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 20.0),
+                    padding: const EdgeInsets.symmetric(horizontal: 10.0),
                     child: SizedBox(
                       width: 100,
                       child: Row(
