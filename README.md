@@ -9,12 +9,12 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 - Auto Scroll on New Messages
 - One-to-One Chatting with Contacts only
 - Group Chatting
-- Text, Image, GIF, Audio(Recording), Video and Emoji Sharing
+- Text, Image, GIF, Audio(Recording), Video, Emoji and Sticker Sharing
 - Status Sharing
 - Status Visible to Contacts Only and Disappears after 24 hours
 - Seen Message (Double Blue Tick)
 - Replying to Messages
-- Video Calling
+- Video Calling using Agora
 
 ## Tech Stack
 
@@ -28,6 +28,7 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 - [Demo Video 2](https://drive.google.com/file/d/1zQ3yRuaP05kdB9tH94Hor7-cYZ9yegiU/view?usp=sharing)
 - [Demo Video 3](https://drive.google.com/file/d/1zBp8cRdPMTJIsV7oRPkUdWUF5aI1S9F8/view?usp=sharing)
 - [Demo Video 4](https://drive.google.com/file/d/1z-rMyjLXO1jyythNLCCvGvf4TBu6hpsw/view?usp=sharing)
+- [Demo Video 5](https://drive.google.com/file/d/1ze5gHEQZ6EHUkP72tT1W75wQdhx5Cs00/view?usp=sharing)
 
 ## Screenshots
 
