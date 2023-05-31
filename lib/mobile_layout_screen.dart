@@ -51,7 +51,7 @@ class _MobileLayoutScreenState extends ConsumerState<MobileLayoutScreen>
 
   @override
   Widget build(BuildContext context) {
-    return DefaultTabController(
+    return CallPickupScreen(scaffold: DefaultTabController(
         length: 3,
         child: Scaffold(
           appBar: AppBar(
@@ -142,7 +142,7 @@ class _MobileLayoutScreenState extends ConsumerState<MobileLayoutScreen>
 
           ),
         ),
-      // ),
+      ),
     );
   }
 }

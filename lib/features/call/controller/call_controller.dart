@@ -68,5 +68,12 @@ class CallController {
   ) {
     callRepository.endCall(callerId, receiverId, context);
   }
+  void endGroupCall(
+      String callerId,
+      String receiverId,
+      BuildContext context,
+      ) {
+    callRepository.endGroupCall(callerId, receiverId, context);
+  }
 }
 //
