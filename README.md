@@ -18,9 +18,9 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 
 ## Tech Used
 
-**Server**: Firebase (Auth and Storage)
-**Database**: Firebase Firestore
-**Client**: Flutter, Riverpod
+- **Server**: Firebase (Auth and Storage)
+- **Database**: Firebase Firestore
+- **Client**: Flutter, Riverpod
 
 ## Screenshots
 
