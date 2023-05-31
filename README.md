@@ -37,3 +37,7 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 ## FeedBack
 
 If you have any suggestions or feedback, please reach out to me at rasesh220303@gmail.com
+
+# Important Note
+
+Please handle the app patiently, don't press any button twice and wait for further screen to load.
