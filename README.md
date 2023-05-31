@@ -16,7 +16,7 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 - Replying to Messages
 - Video Calling
 
-## Tech Used
+## Tech Stack
 
 - **Server**: Firebase (Auth and Storage)
 - **Database**: Firebase Firestore
@@ -31,9 +31,9 @@ Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase 
 
 
 ## Installation
-After cloning this repository, migrate to ```whatsapp-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```whatsapp_clone``` folder. Then, follow these steps:
 - Create Firebase Project
-- Run the commands:
+- Run the following commands:
   - npm install -g firebase-tools
   - dart pub global activate flutterfire_cli
   - flutterfire configure
@@ -43,16 +43,22 @@ After cloning this repository, migrate to ```whatsapp-clone``` folder. Then, fol
 
 Then run the following commands to run your app:
 ```bash
-  flutter pub get
-  open -a simulator (to get iOS Simulator)
-  flutter run
+flutter pub get
+```
+```bash
+open -a simulator
+``` 
+(to get iOS Simulator)
+
+```bash
+flutter run
 ```
 
 ## Download APK File
 
-[Install the App using this APK]()
+[Install the App using this APK](https://drive.google.com/file/d/1KNp6lC9iWPkSJhQw7wZ4cMF0gp_ei3Ga/view?usp=sharing)
 
-## FeedBack
+## Feedback
 
 If you have any suggestions or feedback, please reach out to me at rasesh220303@gmail.com
 
