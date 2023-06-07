@@ -56,8 +56,8 @@ After cloning this repository, migrate to ```whatsapp_clone``` folder. Then, fol
   - flutterfire configure
 - Enable Authentication
 - Add Firestore & Storage Rules
-- Create Android & iOS Apps
-
+- Create Android App
+This App runs for Android.
 Then run the following commands to run your app:
 ```bash
 flutter pub get
