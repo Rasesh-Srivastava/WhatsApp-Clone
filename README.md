@@ -1,6 +1,6 @@
 # WhatsApp Clone
 
-Full Stack WhatsApp Clone built with Flutter, Firebase Authentication, Firebase Firestore and using Riverpod 2.0 for State Management in Flutter!
+Full Stack WhatsApp Clone for Android built with Flutter, Firebase Authentication, Firebase Firestore and using Riverpod 2.0 for State Management in Flutter!
 
 ## Features
 
@@ -56,8 +56,7 @@ After cloning this repository, migrate to ```whatsapp_clone``` folder. Then, fol
   - flutterfire configure
 - Enable Authentication
 - Add Firestore & Storage Rules
-- Create Android App
-This App runs for Android.
+- Create Android & iOS Apps.
 Then run the following commands to run your app:
 ```bash
 flutter pub get
