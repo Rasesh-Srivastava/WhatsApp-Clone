@@ -33,19 +33,19 @@ Full Stack WhatsApp Clone for Android built with Flutter, Firebase Authenticatio
 
 ## Screenshots
 
-![WhatsApp Image 2023-05-31 at 11 47 19 PM](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/2041d0d9-82dd-47ae-89bf-37bf2a8bd538)
+![Image 1](https://drive.google.com/uc?export=view&id=1CtcswRMd98sXfqPH9DSU2ewVIXwoOGsq)
 
-![WhatsApp Image 2023-05-31 at 11 47 19 PM (1)](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/8b53476d-14a3-4f7b-a6ac-b88f65c0d51c)
+![Image 2](https://drive.google.com/uc?export=view&id=1Qu3r7LBjWcr69__xaJvbH62C0kb3Q84l)
 
-![WhatsApp Image 2023-06-01 at 1 21 03 AM](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/6c15605e-013f-42d3-b5d6-aab819871149)
+![Image 3](https://drive.google.com/uc?export=view&id=1IQwfNAJRX9djx9dUykuq4wijs_VkNep1)
 
-![WhatsApp Image 2023-06-01 at 1 21 04 AM](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/2cd92fa1-6731-4392-ae6d-b6ea97fcb111)
+![Image 4](https://drive.google.com/uc?export=view&id=1gzcpApZqSNlF1_okVmsEYm_tHxzC_3Cx)
 
-![WhatsApp Image 2023-06-01 at 1 21 04 AM (1)](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/b1f2f68b-e25d-445e-83d2-2f5dc167a10d)
+![Image 5](https://drive.google.com/uc?export=view&id=17VgYtWGKotrMd-70nhKkN0sAIVzXL2ti)
 
-![WhatsApp Image 2023-06-01 at 1 21 05 AM](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/12f18c11-de01-477b-9a1f-81e03d05b7b1)
+![Image 6](https://drive.google.com/uc?export=view&id=1ZBx6M_rZz76I0x0eh5LK0PtMYcNmd_9t)
 
-![WhatsApp Image 2023-06-01 at 1 26 07 AM](https://github.com/Rasesh-Srivastava/WhatsApp-Clone/assets/116264587/9b5b6ebf-5153-4217-bb5b-0134ad697b12)
+![Image 7](https://drive.google.com/uc?export=view&id=1KvN24xl0SDVk7IFOO5zFIbFN2FjMW2Y9)
 
 ## Installation
 After cloning this repository, migrate to ```whatsapp_clone``` folder. Then, follow these steps:
